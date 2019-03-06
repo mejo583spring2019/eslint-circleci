@@ -1,3 +1,12 @@
+# Don't include .env files
+.env
+
+# Just incase glitch messes up
+.git-credentials
+
+# Apple folder metadata
+.DS_Store
+
 # Logs
 logs
 *.log
